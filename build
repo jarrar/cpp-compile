@@ -1,0 +1,4 @@
+#!/bin/bash
+CONTAINER=cpp
+docker build -t $CONTAINER . 
+
